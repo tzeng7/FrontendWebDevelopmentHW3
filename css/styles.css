@@ -1,6 +1,21 @@
+collapsable-nav {
+	border: 1px solid black;
+}
+.nav-item {
+	border-bottom: 1px solid black;
+}
+
 .col-xs-12 {
 	height: 1000px;
-	background-color: gray;
+	background-color: lightgray;
+}
+
+row {
+	margin-bottom: 15px;
+}
+
+navbar-brand {
+	font-weight: bold;
 }
 
 * {
@@ -8,8 +23,11 @@
 }
 
 section {
-	background-color: lightgray;
-	border: 1px;
+	border: solid 1px black;
+}
+
+.section-header {
+	font-weight: bold;
 }
 
 
