@@ -5,7 +5,8 @@ collapsable-nav {
 	border-bottom: 1px solid black;
 }
 
-.col-xs-12 {
+#chicken, #beef, #sushi {
+	margin-bottom: 15px;
 	height: 1000px;
 	background-color: lightgray;
 }
